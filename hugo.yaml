@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir: false
 # Useful when translating.
 enableMissingTranslationPlaceholders: true
 
-enableRobotsTXT: false
+enableRobotsTXT: true
 
 # Will give values to .Lastmod etc.
 enableGitInfo: true

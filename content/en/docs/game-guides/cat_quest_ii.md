@@ -5,7 +5,7 @@ author: Crasben
 rating: gold
 ---
 
-<span style="font-size: 24px;">{{< rating >}}</span> <i class="fab fa-steam" style="font-size: 28px;"></i> <i class="fab fa-epic" style="font-size: 28px;"></i>
+<span style="font-size: 24px;">{{< rating >}}</span> <i class="fab fa-steam" style="font-size: 28px;"></i> <i class="fab fa-epic-store" style="font-size: 28px;"></i>
 
 ## Frameworks / utilities supported
 
